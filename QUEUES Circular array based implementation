@@ -66,6 +66,7 @@ int main(int argc,char const*agr[])
 }
 
 /*o/p:
+   1
    2
    3
    4
