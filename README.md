@@ -92,7 +92,7 @@ This function is used to remove the element in the given list
 This function removes the given element from the list 
 <h3> front() </h3>
 This function is used to print the first element in the list 
-<h1> Stack </h1>
+<h1> STACK </h1>
 Stack is a data structure, which represents the collection of the objects. A item could be added and stored in a stack using push operation. A object can be retrieved using pop operation, to remove an item from the stack. A item could be inserted at the top of the stack. A item could be either removed either from top or bottom of the stack. Their are two types of stack:
 1. LIFO(Last In First Out)
 2. FIFO(First In First Out)
@@ -101,5 +101,5 @@ Stacks have several applications in the Computer Programming. LIFO is used to re
 <h2> Genralizaition of Stack </h2>
 
 A stack could be generalized using templated class <b> template <Typename T> </b> . You can generalize the given code in a following way as told in file <b>generalization of stack </b>
- <h4> QUEUES </h4>
+ <h1> QUEUES </h1>
  Queue is a data structure designed to operate in FIFO (First in First out) context. In queue elements are inserted from rear end and get removed from front end operations called <b>'enqueued'</b> and <b1>'dequed'</b1> respectively. Queue class is container adapter. Container is an objects that hold data of same type. Queue can be created from different sequence containers.
