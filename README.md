@@ -101,6 +101,17 @@ Stacks have several applications in the Computer Programming. LIFO is used to re
 <h2> Genralizaition of Stack </h2>
 
 A stack could be generalized using templated class <b> template <Typename T> </b> . You can generalize the given code in a following way as told in file <b>generalization of stack </b>
+ 
+ <h2>STL Stack Functions </h2>
+<b>stack</b> header file is used in order to implement STL functions. The function is there to add all its utility and is managed 
+<h3> push(data) </h3>
+This function is used to add the elements at the end of the list 
+<h3> top() </h3>
+This function is used to check the top most element. 
+<h3> pop() </h3>
+This function is used to delete the element at the front of the list.
+
+
  <h1> QUEUES </h1>
  Queue is a data structure designed to operate in FIFO (First in First out) context. In queue elements are inserted from rear end and get removed from front end operations called <b>'enqueued'</b> and <b>'dequed'</b> respectively. Queue class is container adapter. Container is an objects that hold data of same type. Queue can be created from different sequence containers.
  <h4> There are two ways to implement Queues</h4>
@@ -110,3 +121,12 @@ A stack could be generalized using templated class <b> template <Typename T> </b
    2. Linked List based 
    
    <b>Out of the two Circular Array based implementation is quite lengthier than the Linked List based implementation.</b>
+   
+   <h2>STL Queue class function</h2>
+<b>queue</b> header file is used in order to implement STL functions. The function is there to add all its utility and is managed 
+<h3> push(data) </h3>
+This function is used to add the elements at the end of the list 
+<h3> front() </h3>
+This function is used to check the front element. 
+<h3> pop() </h3>
+This function is used to delete the element at the front of the list.
