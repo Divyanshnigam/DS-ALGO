@@ -101,3 +101,5 @@ Stacks have several applications in the Computer Programming. LIFO is used to re
 <h2> Genralizaition of Stack </h2>
 
 A stack could be generalized using templated class <b> template <Typename T> </b> . You can generalize the given code in a following way as told in file <b>generalization of stack </b>
+ <h4> QUEUES </h4>
+ Queue is a data structure designed to operate in FIFO (First in First out) context. In queue elements are inserted from rear end and get removed from front end operations called <b>'enqueued'</b> and <b1>'dequed'</b1> respectively. Queue class is container adapter. Container is an objects that hold data of same type. Queue can be created from different sequence containers.
