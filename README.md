@@ -109,4 +109,4 @@ A stack could be generalized using templated class <b> template <Typename T> </b
    1. Circular Array based 
    2. Linked List based 
    
-   <b>Out of the two Circular Array based iplementation is quite lengthy than the Linked List based implementation.</b>
+   <b>Out of the two Circular Array based implementation is quite lengthier than the Linked List based implementation.</b>
