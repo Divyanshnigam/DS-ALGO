@@ -104,6 +104,9 @@ A stack could be generalized using templated class <b> template <Typename T> </b
  <h1> QUEUES </h1>
  Queue is a data structure designed to operate in FIFO (First in First out) context. In queue elements are inserted from rear end and get removed from front end operations called <b>'enqueued'</b> and <b>'dequed'</b> respectively. Queue class is container adapter. Container is an objects that hold data of same type. Queue can be created from different sequence containers.
  <h4> There are two ways to implement Queues</h4>
+ 
+ 
    1. Circular Array based 
    2. Linked List based 
- <b>Out of the two Circular Array based iplementation is quite lengthy than the Linked List based implementation.</b>
+   
+   <b>Out of the two Circular Array based iplementation is quite lengthy than the Linked List based implementation.</b>
