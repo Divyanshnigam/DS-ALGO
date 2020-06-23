@@ -94,9 +94,13 @@ This function removes the given element from the list
 This function is used to print the first element in the list 
 <h1> STACK </h1>
 Stack is a data structure, which represents the collection of the objects. A item could be added and stored in a stack using push operation. A object can be retrieved using pop operation, to remove an item from the stack. A item could be inserted at the top of the stack. A item could be either removed either from top or bottom of the stack. Their are two types of stack:
+
+
 1. LIFO(Last In First Out)
 2. FIFO(First In First Out)
+
 FIFO stack is basically a type of Queue. 
+
 Stacks have several applications in the Computer Programming. LIFO is used to retrieve, recently used objects from cache. FIFO stacks is used to ensure the data is retrieved in the order it was entered. Stacks are basically created at the background, while application was running in front. If stack, runs out of memory such situation is termed as <b> Stack Overflow </b>.
 <h2> Genralizaition of Stack </h2>
 
