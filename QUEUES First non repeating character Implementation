@@ -23,7 +23,7 @@ int main()
 		}
 		else
 		{
-			cout<<q.front()<<endl;     else print 
+			cout<<q.front()<<endl;     //else print 
 			break;
 		}
 	}
