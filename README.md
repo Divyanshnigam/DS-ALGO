@@ -134,3 +134,9 @@ This function is used to add the elements at the end of the list
 This function is used to check the front element. 
 <h3> pop() </h3>
 This function is used to delete the element at the front of the list.
+
+<h1> DEQUE </h1>
+
+
+deque (usually pronounced like "deck") is an irregular acronym of double-ended queue. Double-ended queues are sequence containers with dynamic sizes that can be expanded or contracted on both ends (either its front or its back).
+
