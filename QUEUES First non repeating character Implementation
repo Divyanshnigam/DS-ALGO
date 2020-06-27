@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 	queue<char> q;
-	int freq[27]={0};   //frequency table initialised woth zeros
+	int freq[27]={0};   //frequency table initialised with zeros
 	
 	//running a stream until a '.'
 	char ch;
@@ -33,7 +33,7 @@ int main()
 		cout<<"-1"<<endl;
 	}
 	cin>>ch;
-    }
+        }
 	return 0;
 }
 /*  i/p:
