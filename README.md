@@ -149,4 +149,31 @@ A Binary Tree node contains following parts.
  1. Data
  2. Pointer to left child(left subtree)
  3. Pointer to right child(right subtree)
+ 
+ Unlike Array and Linked List, which are linear data structures, tree is hierarchical (non-linear) data structure.
 
+One reason to use trees might be because you want to store information that naturally forms a hierarchy. <b>For example, the file system on a computer: file system</b>
+
+
+     /desktop   <-- root
+     
+    /          \
+    
+  
+  ...             my computer
+
+               /                \
+      
+          local (c):           local (d):
+   
+           /                  /      |       \
+    
+       ...                  prg1    prg2       prg3
+  
+  
+<b>APPLICATIONS:</b>
+
+ 1. Store hierarchical data, like folder structure, organization structure, XML/HTML data.
+ 2. Binary Search Tree is a tree that allows fast search, insert, delete on a sorted data. It also allows finding closest item
+ 3. Syntax Tree: Used in Compilers.
+ 4. As a workflow for compositing digital images for visual effects.
