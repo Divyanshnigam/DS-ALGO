@@ -157,12 +157,14 @@ One reason to use trees might be because you want to store information that natu
 
      /desktop   <-- root
      
-    /          \
+    /            \
     
   
-  ...             my computer
+...       
+                     
+                     my computer
 
-               /                \
+                  /                \
       
           local (c):           local (d):
    
