@@ -140,3 +140,13 @@ This function is used to delete the element at the front of the list.
 
 deque (usually pronounced like "deck") is an irregular acronym of double-ended queue. Double-ended queues are sequence containers with dynamic sizes that can be expanded or contracted on both ends (either its front or its back).
 
+<h1>Binary Tree Data Structure</h1>
+A tree whose root elements have at most 2 children(subtrees) is a binary tree. Since each element in a binary tree can have only 2 children, we typically name them the left and right child.
+
+
+A Binary Tree node contains following parts.
+
+ 1. Data
+ 2. Pointer to left child(left subtree)
+ 3. Pointer to right child(right subtree)
+
