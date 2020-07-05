@@ -184,6 +184,6 @@ One reason to use trees might be because you want to store information that natu
  
  BST is also a data structure same as BinaryTree with time complexity of O(logN) most of the time(balanced tree) else may be O(N) in case if the tree is Skew tree.
  
- <b>COMPLEXITY depends upon order of depth of tree O(D)<b/> during insertion, deletion, searching, etc.
+ <b>COMPLEXITY depends upon order of depth of tree O(D)</b> during insertion, deletion, searching, etc.
  
  Elements are ordered in the the BST like the element smaller than the root ordered or inserted in the left of the root else on the right of root. This property holds for each root and for every subtrees.
