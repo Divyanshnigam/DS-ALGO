@@ -179,3 +179,11 @@ One reason to use trees might be because you want to store information that natu
  2. Binary Search Tree is a tree that allows fast search, insert, delete on a sorted data. It also allows finding closest item
  3. Syntax Tree: Used in Compilers.
  4. As a workflow for compositing digital images for visual effects.
+ 
+ <h1>Binary Search Tree</h1>
+ 
+ BST is also a data structure same as BinaryTree with time complexity of O(logN) most of the time(balanced tree) else may be O(N) in case if the tree is Skew tree.
+ 
+ <b>COMPLEXITY depends upon order of depth of tree O(D)<b/> during insertion, deletion, searching, etc.
+ 
+ Elements are ordered in the the BST like the element smaller than the root ordered or inserted in the left of the root else on the right of root. This property holds for each root and for every subtrees.
