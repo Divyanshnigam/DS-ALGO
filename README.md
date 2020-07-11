@@ -187,3 +187,12 @@ One reason to use trees might be because you want to store information that natu
  <b>COMPLEXITY depends upon order of depth of tree O(D)</b> during insertion, deletion, searching, etc.
  
  Elements are ordered in the the BST like the element smaller than the root ordered or inserted in the left of the root else on the right of root. This property holds for each root and for every subtrees.
+ 
+ <h1>Heap Data Structure</h1>
+ 
+ A Heap is a Tree-based data structure in which the tree is a complete binary tree. Generally, Heaps can be of two types:
+
+<b>Max-Heap:</b> In a Max-Heap the key present at the root node must be greatest among the keys present at all of it’s children. The same property must be recursively true for all sub-trees in that Binary Tree.
+
+<b>Min-Heap:</b> In a Min-Heap the key present at the root node must be minimum among the keys present at all of it’s children. The same property must be recursively true for all sub-trees in that Binary Tree.
+
