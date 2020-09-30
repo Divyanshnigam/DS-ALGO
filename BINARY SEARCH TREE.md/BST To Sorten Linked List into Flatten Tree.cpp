@@ -39,7 +39,6 @@ class linkedlist
 linkedlist flatten(node*root)
 {
 	linkedlist l;
-	
 }
 node* build()
 {
