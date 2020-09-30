@@ -1,5 +1,5 @@
 # DS-ALGO
-<<<<<<< HEAD
+
 # LINKED LIST 
 
  Linked List is a linear collection of the data elements. It is data structure consisting of collection of nodes which together represents the sequence. Each node consists of: o Data o Reference (Address to next node)
@@ -197,6 +197,3 @@ One reason to use trees might be because you want to store information that natu
 
 <b>Min-Heap:</b> In a Min-Heap the key present at the root node must be minimum among the keys present at all of it’s children. The same property must be recursively true for all sub-trees in that Binary Tree.
 
-=======
-Contribute and Learn Data Structure and Algorithms.
->>>>>>> f1b337bc4467a7bda7296b25e26e4d9f3d36bed6
